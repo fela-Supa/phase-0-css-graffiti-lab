@@ -1,1 +1,18 @@
 /* write your override styles here */
+#tag-3{
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: block;
+  }
+  #wall .tag-1 {
+    display: none;
+  }
+  /* write your override styles here */
+#tag-3{
+    background: url(../images/tag-1.png) no-repeat;
+    z-index: 7;
+    display: block;
+  }
+  #wall .tag-1 {
+    display: none;
+  }
